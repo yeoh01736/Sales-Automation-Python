@@ -1,4 +1,5 @@
 Personalized Email Sender with Python
+
 This project demonstrates how to automate the process of generating personalized emails/messages and sending them to a list of leads using Python. It leverages pandas for data handling and smtplib for email sending.
 
 Table of Contents
